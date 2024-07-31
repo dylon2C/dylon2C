@@ -1,4 +1,4 @@
-Meu nome é Marcelo Paludetto
+Meu nome é Gustavo Dylon
 - Estou estudando na Alura
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e
